@@ -1,0 +1,5 @@
+package QA;
+
+class UITester {
+
+}
